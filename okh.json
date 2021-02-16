@@ -1,0 +1,19 @@
+{
+    "okhv": "2.0",
+    "name": "mppt-1210-hus",
+    "spdx-license": "CC-BY-SA-4.0",
+    "licensor": "Martin Jäger <martin@libre.solar>",
+    "readme": "README.md",
+    "image": "mppt-1210-hus.jpg",
+    "documentation-language": "en-GB",
+    "development-stage": "prototype",
+    "function": "MPPT solar charge controller with dual USB ports",
+    "patent-class": "H02J 7/35",
+    "tsdc-id": "ASM-PCB",
+    "simplified-bom": "sBoM.csv",
+    "standard": "",
+    "functional-metadata": "e.g. rpm, voltage,… (multiple)",
+    "production-metadata": "e.g. 3D printed (multiple)",
+    "source": "relative link to source file (multiple) (multiple)",
+    "export": "relative link to export file (multiple) or release"
+  }
